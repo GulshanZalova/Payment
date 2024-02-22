@@ -1,0 +1,13 @@
+.card {
+    height: 550px;
+    width: 250px;
+  }
+  
+  .card img {
+    width: 100%;
+    height: 253px;
+    object-fit: fill;
+  }
+  .star {
+    color: orange;
+  }
